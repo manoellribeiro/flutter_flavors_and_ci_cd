@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Futter Develop",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_dev.dart" 
+        },
+        {
+            "name": "Futter Production",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_prod.dart" 
+        },
+    ]
+}
